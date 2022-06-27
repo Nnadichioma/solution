@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\html stuffs\\CSS -My Site\\css folder"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "CSS - My Site"
+  }
+}
